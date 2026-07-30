@@ -1,0 +1,16 @@
+{
+  "name": "bip-bip",
+  "version": "1.0.0",
+  "description": "Bot Discord « Bip Bip » — généré par BotForge",
+  "main": "bot.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3"
+  }
+}
