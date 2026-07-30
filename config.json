@@ -1,0 +1,19 @@
+{
+  "bot": {
+    "name": "Bip Bip",
+    "prefix": "/",
+    "avatarUrl": "https://base44.app/api/apps/6a6a7a969875bd227e13a705/files/mp/public/6a6a7a969875bd227e13a705/0e73356bb_ab71543ea_generated_image.png"
+  },
+  "commands": [],
+  "automations": [
+    {
+      "name": "bip bip",
+      "triggerType": "keyword",
+      "triggerValue": "bip bip",
+      "actionType": "reply",
+      "actionValue": "boup",
+      "targetChannel": "",
+      "enabled": true
+    }
+  ]
+}
